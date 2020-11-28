@@ -1,0 +1,8 @@
+For running this web app
+
+1.Copy all the files in xampp htdocs folder for windows machine and www folder for linux machine
+2.Create a new database using the ims 
+3. Import ims.sql file into the new data ims
+4. Change the database password in the code by going into the classes folder and editing the database file and update the username and password for the data for the machine Classes>database.php
+5. Save all the changes and fire up the Xampp server
+6. type localhost/suppliers.php for main page
